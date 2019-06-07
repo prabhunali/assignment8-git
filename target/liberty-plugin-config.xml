@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty\wlp</installDirectory>
+    <serverDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty\wlp\usr\servers\MavenTestAppServer</serverDirectory>
+    <userDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty\wlp\usr\servers\MavenTestAppServer</serverOutputDirectory>
+    <serverName>MavenTestAppServer</serverName>
+    <configFile>C:\Users\MonalisaSahoo\myApp\MavenTestApp\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>MavenTestApp.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-runtime</artifactId>
+        <version>19.0.0.5</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\MonalisaSahoo\.m2\repository\io\openliberty\openliberty-runtime\19.0.0.5\openliberty-runtime-19.0.0.5.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty\wlp\usr\servers\MavenTestAppServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+    <warSourceDirectory>C:\Users\MonalisaSahoo\myApp\MavenTestApp\src\main\webapp</warSourceDirectory>
+</liberty-plugin-config>

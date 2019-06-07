@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\Users\MonalisaSahoo\myApp\MavenTestApp\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="C:\Users\MonalisaSahoo\myApp\MavenTestApp\target\liberty-maven\resources\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

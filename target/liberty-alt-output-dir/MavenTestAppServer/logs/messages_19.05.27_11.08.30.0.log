@@ -1,0 +1,20 @@
+********************************************************************************
+product = Open Liberty 19.0.0.4 (wlp-1.0.27.cl190420190419-0642)
+wlp.install.dir = C:/Users/MonalisaSahoo/myApp/MavenTestApp/target/liberty/wlp/
+server.output.dir = C:/Users/MonalisaSahoo/myApp/MavenTestApp/target/liberty-alt-output-dir/MavenTestAppServer/
+java.home = C:\Program Files\Java\jdk1.8.0_211\jre
+java.version = 1.8.0_211
+java.runtime = Java(TM) SE Runtime Environment (1.8.0_211-b12)
+os = Windows 10 (10.0; amd64) (en_IN)
+process = 4132@DESKTOP-714QL32
+********************************************************************************
+[21/5/19 18:37:33:334 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0001I: The server MavenTestAppServer has been launched.
+[21/5/19 18:37:36:330 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           I CWWKE0002I: The kernel started after 4.002 seconds
+[21/5/19 18:37:36:526 IST] 0000001d com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0007I: Feature update started.
+[21/5/19 18:37:37:903 IST] 0000001d com.ibm.ws.kernel.feature.internal.ServerContentHelper       W CWWKF0024W: The feature com.ibm.websphere.appserver.kernel-1.0 referenced a resource com.ibm.ws.config.utility/[1.0.0,1.0.100) that was unable to be located during a packaging query. 
+[21/5/19 18:37:38:447 IST] 0000001d com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0012I: The server installed the following features: [el-3.0, jsp-2.3, servlet-3.1].
+[21/5/19 18:37:38:449 IST] 0000001d com.ibm.ws.kernel.feature.internal.FeatureManager            I CWWKF0008I: Feature update completed in 2.129 seconds.
+[21/5/19 18:37:38:451 IST] 0000001d com.ibm.ws.kernel.feature.internal.FeatureManager            A CWWKF0026I: The server MavenTestAppServer is ready to build a smaller package.
+[21/5/19 18:37:38:465 IST] 00000022 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  A CWWKE1100I: Waiting for up to 30 seconds for the server to quiesce.
+[21/5/19 18:37:38:474 IST] 00000022 com.ibm.ws.runtime.update.internal.RuntimeUpdateManagerImpl  I CWWKE1101I: Server quiesce complete.
+[21/5/19 18:37:38:859 IST] 0000000b com.ibm.ws.kernel.launch.internal.FrameworkManager           A CWWKE0036I: The server MavenTestAppServer stopped after 6.532 seconds.
